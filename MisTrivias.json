@@ -1,0 +1,93 @@
+[
+   {
+      "id": 16,
+      "nombre": "Deportes",
+      "descripcion": "Trivia de deportes",
+      "dificultad": 48,
+      "categoriatrivia": 18,
+      "tag": null,
+      "estado": 1,
+      "categoriatrivia1": null,
+      "preguntas": [],
+      "resultadoes": [],
+      "trivia_pregunta": []
+   },
+   {
+      "id": 20,
+      "nombre": "Cultura General",
+      "descripcion": "Trivia para preguntas generales",
+      "dificultad": 72,
+      "categoriatrivia": 7,
+      "tag": "cultura,arte,fechas",
+      "estado": 1,
+      "categoriatrivia1": null,
+      "preguntas": [],
+      "resultadoes": [],
+      "trivia_pregunta": []
+   },
+   {
+      "id": 24,
+      "nombre": "Musica",
+      "descripcion": "Trivia que incluye nombre de artistas bandas albunes fechas y lugares relacionados con la musica",
+      "dificultad": 81,
+      "categoriatrivia": 29,
+      "tag": null,
+      "estado": 1,
+      "categoriatrivia1": null,
+      "preguntas": [],
+      "resultadoes": [],
+      "trivia_pregunta": []
+   },
+   {
+      "id": 34,
+      "nombre": "No Asignado",
+      "descripcion": "Trivia por defecto",
+      "dificultad": 10,
+      "categoriatrivia": 10,
+      "tag": "default",
+      "estado": 1,
+      "categoriatrivia1": null,
+      "preguntas": [],
+      "resultadoes": [],
+      "trivia_pregunta": []
+   },
+   {
+      "id": 35,
+      "nombre": "Maravillas de mundo",
+      "descripcion": "SObre las 7 maravillas del mundo",
+      "dificultad": 65,
+      "categoriatrivia": 5,
+      "tag": "maravillas, geografia",
+      "estado": 1,
+      "categoriatrivia1": null,
+      "preguntas": [],
+      "resultadoes": [],
+      "trivia_pregunta": []
+   },
+   {
+      "id": 117,
+      "nombre": "NuevaTrivia",
+      "descripcion": "DescTrivia",
+      "dificultad": 20,
+      "categoriatrivia": 16,
+      "tag": null,
+      "estado": 1,
+      "categoriatrivia1": null,
+      "preguntas": [],
+      "resultadoes": [],
+      "trivia_pregunta": []
+   },
+   {
+      "id": 128,
+      "nombre": "Video Juegos",
+      "descripcion": "Preguntas basicas sobre video juegos, y temas frikis",
+      "dificultad": 80,
+      "categoriatrivia": 17,
+      "tag": "juegos, consolas, personajes",
+      "estado": 1,
+      "categoriatrivia1": null,
+      "preguntas": [],
+      "resultadoes": [],
+      "trivia_pregunta": []
+   }
+]
